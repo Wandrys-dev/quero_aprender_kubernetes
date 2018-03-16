@@ -7,8 +7,8 @@ Reunimos alguns links e fontes interessantes para quem quer iniciar no mundo de 
 ## Pré-requisito:
 
 O que são os containers Linux:  
-* redhat.com/pt-br/topics/containers (PT-BR)  
-* redhat.com/en/topics/containers (Inglês + completo)
+* https://redhat.com/pt-br/topics/containers (PT-BR)  
+* https://redhat.com/en/topics/containers (Inglês + completo)
 
 O que é DOCKER:   
 * https://www.redhat.com/pt-br/topics/containers/what-is-docker ((PT-BR))  
@@ -16,13 +16,16 @@ O que é DOCKER:
 
 ## Materiais introdutórios:
 
-"The Illustrated Children's Guide to Kubernetes": [The Illustrated Children's Guide to Kubernetes](https://youtu.be/v=4ht22ReBjno)
+* "The Illustrated Children's Guide to Kubernetes":   
+[![The Illustrated Children's Guide to Kubernetes](https://img.youtube.com/vi/v=4ht22ReBjno/0.jpg)](https://youtu.be/v=4ht22ReBjno)
 
-"Kubernetes in 5 mins": [Kubernetes in 5 mins](https://youtu.be/v=PH-2FfFD2PU)
+* "Kubernetes in 5 mins":  
+[![Kubernetes in 5 mins](https://img.youtube.com/vi/v=PH-2FfFD2PU/0.jpg)](https://youtu.be/v=PH-2FfFD2PU)
+
 
 O que é o Kubernetes:
-* redhat.com/pt-br/topics/containers/what-is-kubernetes (PT-BR)
-* redhat.com/en/topics/containers/what-is-kubernetes (Inglês + completo)
+* https://redhat.com/pt-br/topics/containers/what-is-kubernetes (PT-BR)
+* https://redhat.com/en/topics/containers/what-is-kubernetes (Inglês + completo)
 
 * [Documentação OFICIAL kubernetes(muito boa!!!)](https://kubernetes.io/docs/home/?path=users&persona=cluster-operator&level=foundational)
 
@@ -38,30 +41,34 @@ O que é o Kubernetes:
 * * [Openshift Origin Local cluster](https://github.com/openshift/origin/blob/master/docs/cluster_up_down.md) 
 * * [IBM Cloud Private-CE (Community Edition)](https://github.com/IBM/deploy-ibm-cloud-private)
 * * [Rancher Sandbox Online](https://rancher.com/kubernetes/)
-* * [kubeadm-dind-cluster](https://github.com/Mirantis/kubeadm-dind-cluster)
+* * [kubeadm-dind-cluster](https://github.com/Mirantis/kubeadm-dind-cluster)  
+* * **Um plus**:
+* * * [Rancher Kubernetes Engine - RKE](https://github.com/rancher/rke) 
 
-* Escolhendo a solução certa: https://kubernetes.io/docs/setup/pick-right-solution/ 
+* **Escolhendo a solução correta**: https://kubernetes.io/docs/setup/pick-right-solution/ 
 
-* A Guide to Using Kubernetes in Your Infrastructure:  blog.kublr.com/a-guide-to-using-kubernetes-in-your-infrastructure-473776a4cc06
+* A Guide to Using Kubernetes in Your Infrastructure:  https://blog.kublr.com/a-guide-to-using-kubernetes-in-your-infrastructure-473776a4cc06
 
 
 
-Cursos:
+**Cursos:**
 
 * Introduction to Kubernetes: https://www.cncf.io/certification/training/
 
 * Rancher Kubernetes Training: http://info.rancher.com/kubernetes-training
 
-* Scalable Microservices with Kubernetes:  br.udacity.com/course/scalable-microservices-with-kubernetes--ud615
+* Scalable Microservices with Kubernetes:  https://br.udacity.com/course/scalable-microservices-with-kubernetes--ud615
 
-* "Kubernetes for Sysadmins – Kelsey Hightower at PuppetConf 2016": youtube.com/watch?v=HlAXp0-M6SY
+* "Kubernetes for Sysadmins – Kelsey Hightower at PuppetConf 2016": https://youtube.com/watch?v=HlAXp0-M6SY
 
 
 ## Curiosidades:
 
 * Esse cara **Kelsey Hightower** é o cara de kubernetes, trabalha no Google. Nesse vídeo ele instância e administra um cluster kubernetes por comando de voz na nuvem do Google:
-[Kubernetes The Easy Way! (For Developers In 2018)](https://youtu.be/v=kOa_llowQ1c)
+[![Kubernetes The Easy Way! (For Developers In 2018)](https://img.youtube.com/vi/v=kOa_llowQ1c/0.jpg)](https://youtu.be/v=kOa_llowQ1c)
 
 * Kubernetes and Google Container Engine (Google Cloud Next '17): https://www.youtube.com/watch?v=Csf-gxjo4hc
 
 * Kubernetes The Hard Way https://github.com/kelseyhightower/kubernetes-the-hard-way
+
+* Kubernetes: Finally...A True Cloud Platform https://www.youtube.com/watch?time_continue=5&v=of45hYbkIZs
