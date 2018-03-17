@@ -17,10 +17,10 @@ O que é DOCKER:
 ## Materiais introdutórios:
 
 * "The Illustrated Children's Guide to Kubernetes":   
-[![The Illustrated Children's Guide to Kubernetes](https://img.youtube.com/vi/v=4ht22ReBjno/0.jpg)](https://youtu.be/v=4ht22ReBjno)
+[![The Illustrated Children's Guide to Kubernetes](https://img.youtube.com/vi/4ht22ReBjno/0.jpg)](https://youtu.be/4ht22ReBjno)
 
 * "Kubernetes in 5 mins":  
-[![Kubernetes in 5 mins](https://img.youtube.com/vi/v=PH-2FfFD2PU/0.jpg)](https://youtu.be/v=PH-2FfFD2PU)
+[![Kubernetes in 5 mins](https://img.youtube.com/vi/PH-2FfFD2PU/0.jpg)](https://youtu.be/PH-2FfFD2PU)
 
 
 O que é o Kubernetes:
@@ -65,7 +65,7 @@ O que é o Kubernetes:
 ## Curiosidades:
 
 * Esse cara **Kelsey Hightower** é o cara de kubernetes, trabalha no Google. Nesse vídeo ele instância e administra um cluster kubernetes por comando de voz na nuvem do Google:
-[![Kubernetes The Easy Way! (For Developers In 2018)](https://img.youtube.com/vi/v=kOa_llowQ1c/0.jpg)](https://youtu.be/v=kOa_llowQ1c)
+[![Kubernetes The Easy Way! (For Developers In 2018)](https://img.youtube.com/vi/kOa_llowQ1c/0.jpg)](https://youtu.be/kOa_llowQ1c)
 
 * Kubernetes and Google Container Engine (Google Cloud Next '17): https://www.youtube.com/watch?v=Csf-gxjo4hc
 
