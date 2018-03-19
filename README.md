@@ -42,8 +42,9 @@ O que é o Kubernetes:
 * * [IBM Cloud Private-CE (Community Edition)](https://github.com/IBM/deploy-ibm-cloud-private)
 * * [Rancher Sandbox Online](https://rancher.com/kubernetes/)
 * * [kubeadm-dind-cluster](https://github.com/Mirantis/kubeadm-dind-cluster)  
-* * **Um plus**:
-* * * [Rancher Kubernetes Engine - RKE](https://github.com/rancher/rke) 
+* * **Plus**:
+* * * [Rancher Kubernetes Engine - RKE](https://github.com/rancher/rke)
+* * * [Tutorial Docs Kubernetic: The Desktop Client for Kubernetes](https://docs.kubernetic.com/) 
 
 * **Escolhendo a solução correta**: https://kubernetes.io/docs/setup/pick-right-solution/ 
 
